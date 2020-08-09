@@ -4,7 +4,6 @@
 
  - Post Graduate Program in Data Science
  - In collaboration with IBM 
- - List item
 - ([Purdue University](https://www.simplilearn.com/ice9/pdfs/agenda/masters-program/Purdue%20Data%20Science%20Master%20Program_v10.pdf))
 -  August, 2020
     
