@@ -1,10 +1,9 @@
 
 
 # PGPinDS
-
-## **Machine Learning, Data Science, AI & Data Analytics ([Syllabus](https://www.simplilearn.com/ice9/pdfs/agenda/masters-program/Purdue%20Data%20Science%20Master%20Program_v10.pdf))**.
-
-  
+Purdue Post Graduate Program in Machine Learning, AI 
+[Syllabus](https://www.simplilearn.com/ice9/pdfs/agenda/masters-program/Purdue%20Data%20Science%20Master%20Program_v10.pdf)
+## **Machine Learning, Data Science, AI & Data Analytics **.
 
 >"Congratulations, you have completed your first lesson and hands-on lab in Python. However, there is one more thing you need to do. The Data Science community encourages sharing work. The best way to share and showcase your work is to share it on GitHub. By sharing your notebook on GitHub you are not only building your reputation with fellow data scientists, but you can also show it off when applying for a job. Even though this was your first piece of work, it is never too early to start building good habits. So, please read and follow this article to learn how to share your work." 
 >-- Post Graduate Program in Data Science
