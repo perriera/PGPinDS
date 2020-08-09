@@ -1,7 +1,8 @@
 
 
 # PGPinDS
-Purdue Post Graduate Program in Machine Learning, AI 
+>Post Graduate Program in Data Science
+In collaboration with IBM 
 ([Program Syllabus](https://www.simplilearn.com/ice9/pdfs/agenda/masters-program/Purdue%20Data%20Science%20Master%20Program_v10.pdf))
 ## **Machine Learning, Data Science, AI & Data Analytics **.
 
